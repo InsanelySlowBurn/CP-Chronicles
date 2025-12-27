@@ -59,5 +59,9 @@
 |Aman Kumar Mehta       |AmanMehta22                |Amity University Jharkhand                                         |                                                                                             |     
 | Naman Pal              | Naman2251                | IIIT Allahabad
 | Sudhanshu              | sahsudhanshu            | IIIT Allahabad                                                   |
+| Harjas             |harjasbb07-eng           | IIIT Allahabad
+| Ashutosh Kesarwani     | Lucifer-0612             | HIT Haldia
+| Samarth Patel          | capricemoto              | IIIT Allahbad                                                     |
+| Divakar Bhatt          | wodivakar                | IIIT Allahabad                                                  |
 <!-- ADD ABOVE THIS -->
 <!-- example | Korvac | Betty | Reyansh College | -->
